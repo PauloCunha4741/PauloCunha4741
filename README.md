@@ -9,7 +9,7 @@
 - 🔭 Trabalho como Técnico de Planejamento no setor de Projetos da Votorantim Cimentos
 - 🌱 Aluno no curso NExT (CESAR) - Python / Git / Java
 - 🥅 Estou em processo de migração para área de Análise de Dados
-- 🏳️‍🌈 Sou proativo, tenho um bom senso crítico, procurando sempre melhorar processos e me dou muito bem em equipe
+- 🏳️‍🌈 Sou proativo, tenho um bom senso crítico, procurando sempre melhorar os processos e me dou muito bem em equipes
 
 ## Stack
   ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
