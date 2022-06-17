@@ -30,5 +30,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloCunha4741&show_icons=true&theme=radical)
 
 ## Onde me encontrar
-[![Gmail Badge](https://img.shields.io/badge/-cunhapaulo4741@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cunhapaulo4741@gmail.com)](mailto:unhapaulo4741@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-PauloCunha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-correia-albuquerque-cunha/)](https://www.linkedin.com/in/paulo-correia-albuquerque-cunha/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unhapaulo4741@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/paulo-correia-albuquerque-cunha/)
